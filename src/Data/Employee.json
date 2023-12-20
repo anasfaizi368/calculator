@@ -1,0 +1,27 @@
+[
+    {
+        "name":"zain",
+        "age":21,
+        "designation":"software house"
+    },
+    {
+        "name":"hassan",
+        "age":22,
+        "designation":"software house"
+    },
+    {
+        "name":"zain2",
+        "age":44,
+        "designation":"software house"
+    },
+    {
+        "name":"zain3",
+        "age":21,
+        "designation":"software house"
+    },
+    {
+        "name":"zain4",
+        "age":21,
+        "designation":"software house"
+    }
+]
